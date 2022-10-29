@@ -1,0 +1,23 @@
+{
+  "name": "@malinsamare/add-two-numbers",
+  "version": "1.0.0",
+  "description": "this package allows you to add two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malinsamaree/npm-hello-world.git"
+  },
+  "keywords": [
+    "add",
+    "numbers"
+  ],
+  "author": "malinsamaree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malinsamaree/npm-hello-world/issues"
+  },
+  "homepage": "https://github.com/malinsamaree/npm-hello-world#readme"
+}
